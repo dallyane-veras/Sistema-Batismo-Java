@@ -2,6 +2,7 @@ Sistema de Gestão de Batismo Paroquial
 🚀 Sobre o Projeto
 
 Este é um sistema desenvolvido em Java com arquitetura desktop (Swing) e base de dados relacional (MySQL). O objetivo principal da aplicação é otimizar o fluxo de registos paroquiais, permitindo cadastros ágeis, consultas estruturadas e emissão automatizada de relatórios em PDF.
+
 🛠️ Tecnologias e Ferramentas Utilizadas
 
     Linguagem: Java
