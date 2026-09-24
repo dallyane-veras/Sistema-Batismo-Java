@@ -26,7 +26,6 @@ Este é um sistema desenvolvido em Java com arquitetura desktop (Swing) e base d
     Segurança e Conexão: Módulo centralizado de ligação à base de dados com suporte a PreparedStatements para prevenção de falhas de segurança.
 
 📂 Estrutura do Projeto
-Plaintext
 
 Sistema-Batismo-Java/
 ├── src/
